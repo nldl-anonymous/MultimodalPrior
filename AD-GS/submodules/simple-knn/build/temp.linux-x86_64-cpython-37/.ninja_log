@@ -1,0 +1,4 @@
+# ninja log v5
+0	5096	1762868052566110016	/media/shairatabassum/Data/shaira-PhD/AD-GS/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/simple_knn.o	f9355a7e3b818ee9
+0	10635	1762868058096214191	/media/shairatabassum/Data/shaira-PhD/AD-GS/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/ext.o	2181cdf173c02580
+1	25274	1762868072742483510	/media/shairatabassum/Data/shaira-PhD/AD-GS/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/spatial.o	2e10c55017fd3aa6
